@@ -1,0 +1,8 @@
+C:\Projects\Learningbowl\EmployeeDemo\Employee.ModelLayer\bin\Debug\netstandard2.0\Emp.ModelLayer.deps.json
+C:\Projects\Learningbowl\EmployeeDemo\Employee.ModelLayer\bin\Debug\netstandard2.0\Emp.ModelLayer.dll
+C:\Projects\Learningbowl\EmployeeDemo\Employee.ModelLayer\bin\Debug\netstandard2.0\Emp.ModelLayer.pdb
+C:\Projects\Learningbowl\EmployeeDemo\Employee.ModelLayer\obj\Debug\netstandard2.0\Emp.ModelLayer.AssemblyInfoInputs.cache
+C:\Projects\Learningbowl\EmployeeDemo\Employee.ModelLayer\obj\Debug\netstandard2.0\Emp.ModelLayer.AssemblyInfo.cs
+C:\Projects\Learningbowl\EmployeeDemo\Employee.ModelLayer\obj\Debug\netstandard2.0\Emp.ModelLayer.dll
+C:\Projects\Learningbowl\EmployeeDemo\Employee.ModelLayer\obj\Debug\netstandard2.0\Emp.ModelLayer.pdb
+C:\Projects\Learningbowl\EmployeeDemo\Employee.ModelLayer\obj\Debug\netstandard2.0\Emp.ModelLayer.csprojAssemblyReference.cache
